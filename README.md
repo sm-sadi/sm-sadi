@@ -23,5 +23,5 @@ collaboration and clear documentation, ensuring stability and continuous improve
 - **Other:** Linux, Git, Postman
 
 ## 📫 Connect with Me
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/showaib-sadi)
+- LinkedIn: [Linkedin-Profile](https://www.linkedin.com/in/showaib-sadi)
 <!-- - Portfolio: [your-website](https://yourwebsite.com) -->
