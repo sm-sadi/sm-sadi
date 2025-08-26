@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Showaib Sadi 👋
 
+IT Analyst with solid experience in Application support, JavaScript debugging, Testing and stakeholder
+communication.Skilled in incident management,root cause analysis, requirement gathering, technical
+troubleshooting and improving application usabilty.I drive project success through effective cross-functional
+collaboration and clear documentation, ensuring stability and continuous improvement in every initiative.
+
+
+## 🚀 Featured Projects
+- [**Task Manager API**](https://github.com/sm-sadi/node-express-jokes-API)  
+  REST API with Node & Express.  
 <!--
-**sm-sadi/sm-sadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [**Chat App**](https://github.com/yourusername/chat-app)  
+  Real-time chat using Socket.io and Node.js.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [**Portfolio Website**](https://github.com/yourusername/portfolio)  
+  Personal site showcasing my work and blogs.
 -->
+## 💻 Tech Stack
+- **Languages:** HTML & CSS, JavaScript, Google Apps Script
+- **Backend:** Node.js, Express
+- **Databases:** SQL
+- **Other:** Linux, Git, Postman
+
+## 📫 Connect with Me
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/showaib-sadi)
+<!-- - Portfolio: [your-website](https://yourwebsite.com) -->
