@@ -7,7 +7,7 @@ collaboration and clear documentation, ensuring stability and continuous improve
 
 
 ## 🚀 Featured Projects
-- [**Task Manager API**](https://github.com/sm-sadi/node-express-jokes-API)  
+- [**Jokes Manager API**](https://github.com/sm-sadi/node-express-jokes-API)  
   REST API with Node & Express.  
 <!--
 - [**Chat App**](https://github.com/yourusername/chat-app)  
